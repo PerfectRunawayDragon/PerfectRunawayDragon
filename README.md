@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hihi
 
-My name is __Sophia__, I occasionally do programming and stuff, that's about it.
+I'm __Runa__! I write code somtimes or are or gamedev
+no public projects because I never finish any of them and it'd be really weird
 
